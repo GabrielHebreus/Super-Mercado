@@ -17,7 +17,7 @@ public class Mercado {
     }
     private static void menu(){
         System.out.println("---------------------------------------------------------");
-        System.out.println("------------------Bem-Vindo ao Meli------------------");
+        System.out.println("------------------Bem-Vindo ao Atacadão------------------");
         System.out.println("---------------------------------------------------------");
         System.out.println("***** Selecione uma operação que deseja realizar *****");
         System.out.println("---------------------------------------------------------");
